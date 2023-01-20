@@ -17,11 +17,13 @@
     let SecondString =  `${FirstString} the Main Paragraph. `;
     MainParagraph.textContent = SecondString;
     //Create Article
+    let DocumentBody = document.getElementsByTagName("body")[0];
     let Article = document.createElement("article");
-    let ArticleParagraph = `<p id="ArticleParagraph" class="mt-3"> This is my article paragraph </p>`;
-    Article.setAttribute("class", "container")
+    let ArticleParagraph = `<p id="ArticleParagraph" class="mt-3">This is my article paragraph</p>`;
+    Article.setAttribute("class","container");
     Article.innerHTML = ArticleParagraph;
     DocumentBody.appendChild(Article);
+
 
     function DisplayProductsPage(){
 

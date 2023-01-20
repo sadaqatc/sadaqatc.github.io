@@ -1,0 +1,14 @@
+{
+  "name": "ICE-1",
+  "version": "1.0.0",
+  "description": "ICE-1 WEEK2",
+  "main": "index.js",
+  "author": "Sadaqat Chaudhry",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
+  }
+}

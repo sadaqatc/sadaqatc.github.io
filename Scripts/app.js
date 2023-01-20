@@ -14,11 +14,11 @@
     MainParagraph.textContent = "This is the main Paragraph!"
     MainContent.appendChild(MainParagraph)
     let FirstString = "This is";
-    let SecondString =  '${FirstString} the Main Paragraph.' ;
+    let SecondString =  `${FirstString} the Main Paragraph. `;
     MainParagraph.textContent = SecondString;
     //Create Article
     let Article = document.createElement("article");
-    let ArticleParagraph = '<p id="ArticleParagraph" class="mt-3"> This is my article paragraph </p>';
+    let ArticleParagraph = `<p id="ArticleParagraph" class="mt-3"> This is my article paragraph </p>`;
     Article.setAttribute("class", "container")
     Article.innerHTML = ArticleParagraph;
     DocumentBody.appendChild(Article);

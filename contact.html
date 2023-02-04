@@ -25,10 +25,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html"><i class="fa-solid fa-home"></i>Home </a>
+            <a class="nav-link" href="index.html"><i class="fa-solid fa-home"></i>Home </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="products.html"><i class="fa-solid fa-project-diagram"></i> Products</a>
+            <a class="nav-link" id="prodLink" href="products.html"><i class="fa-solid fa-project-diagram"></i> Products</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="services.html"><i class="fa-solid fa-map-signs"></i> Services</a>
@@ -37,27 +37,63 @@
             <a class="nav-link" href="about.html"><i class="fa-solid fa-info"></i> About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html"><i class="fa-solid fa-envelope"></i> Contact Us</a>
+            <a class="nav-link active" aria-current="page" href="contact.html"><i class="fa-solid fa-envelope"></i> Contact Us</a>
           </li>
         </ul>
       </div>
     </div>
-
   </nav>
+
 
 </header>
 
-    <main class="container">
-      <h1 class="mb-5">Contact Us</h1>
-      <button id="AboutUsBtn" class="btn btn-primary"> About Us</button>
-    </main>
+<main class ="container">
+  <h1>Contact Us</h1>
+  <div class="row justify-content-lg-center g-3">
+    <form class="col-lg-6 col-md-10 col-sm-10">
+      <button id="addButton" class="btn btn-primary btn -sm mb-1">
+        <i class="fas fa-plus-circle fa-sm">Add Contact</i></button>
 
+      <div class="input-group mb-3">
+        <span  class="input-group-text">Email address</span>
+        <input type="email" name="emailAddress" class="form-control" id="emailAddress" aria-describedby="emailAddressInput" aria-label="Email Address" required>
+      </div>
+      <div class="input-group mb-3">
+        <span class="input-group-text">Full Name</span>
+        <input type="text" name="Name" class="form-control" id="name" aria-describedby="nameInput" aria-label="Name" required>
+      </div>
+      <div class="input-group mb-3">
+        <span class="input-group-text">Phone Number</span>
+        <input type="tel" name="phoneNumber" class="form-control" id="phoneNumber" aria-describedby="phoneInput" aria-label="Phone" required>
+      </div>
+      <div class="input-group mb-3">
+        <span class="input-group-text">Your message</span>
+        <textarea id="message" name="message" class="form-control" aria-label="Message Area Input"></textarea>
+      </div>
+      <div class="mb-3 form-check"><
+      <input id="subscribeCheckbox" name="subscribeCheckbox" type="checkbox" class="form-check-input">
+        <label class="form-check-label" for="subscribeCheckbox">Subscribe to our contact list</label>
+      </div>
+      <button id="sendButton" type="submit" class="btn btn-primary"><i class="fas fa-envelope"></i>Submit</button>
+      <button id="cancelButton" type="reset" class="btn btn-warning">
+      <i class="fas fa-undo fa-lg"></i> Cancel</button>
+
+    </form>
+    <div class="col-lg-4 col-md-4">
+      <a href="contact-list.html" class="btn btn-primary btn-lg">
+        <i class="fas fa-users fa-sm"></i>Show Contact List</a>
+    </div>
+  </div>
+</main>
 
 
 <!-- Javascript section-->
 <script src="./node_modules/jquery/dist/jquery.min.js"></script>
 <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="./scripts/namespace.js"></script>
+<script src="./scripts/contact.js"></script>
 <script src="./scripts/app.js"></script>
+
 </body>
 
 </html>

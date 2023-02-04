@@ -1,162 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d64dd11e-88b3-4f1a-944c-79650c6b22a8" name="Changes" comment="final commit....fixed app.js file...again" />
-    <list id="85010bb5-111b-49e7-b127-36758a5a1deb" name="New changelist" comment="" />
+    <list default="true" id="60aea8bc-d8ac-40df-883e-1fe5883883ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Scripts/app.js" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2KYeh1wLteDau9XgeTNHWjfSq1z" />
+  <component name="ProjectId" id="2LG7xFDHYT4Mbmb6kbuLsUR0YsN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sadaq/Documents/DC/YEAR 2/Semester 2/WEBD6201/sadaqatc.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/sadaq/Documents/DC/YEAR 2/Semester 2/WEBD6201/sadaqatc.github.io",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d64dd11e-88b3-4f1a-944c-79650c6b22a8" name="Changes" comment="" />
-      <changelist id="85010bb5-111b-49e7-b127-36758a5a1deb" name="New changelist" comment="" />
-      <created>1674156058638</created>
+      <changelist id="60aea8bc-d8ac-40df-883e-1fe5883883ab" name="Changes" comment="" />
+      <created>1675485809645</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674156058638</updated>
-      <workItem from="1674156059736" duration="8236000" />
-      <workItem from="1674245701758" duration="257000" />
-      <workItem from="1674247037779" duration="242000" />
+      <updated>1675485809645</updated>
+      <workItem from="1675485810803" duration="219000" />
     </task>
-    <task id="LOCAL-00001" summary="fixed nojekyll">
-      <created>1674157059708</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674157059708</updated>
-    </task>
-    <task id="LOCAL-00002" summary="fixed nojekyll">
-      <created>1674157196990</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674157196990</updated>
-    </task>
-    <task id="LOCAL-00003" summary="fixed nojekyll">
-      <created>1674169923376</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674169923376</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fixed nojekyll">
-      <created>1674170003938</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674170003938</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fixed nojekyll">
-      <created>1674170069682</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1674170069682</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Update of ICE-1">
-      <created>1674170741097</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1674170741097</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Update of ICE-1">
-      <created>1674170864416</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1674170864416</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update of ICE-1, final push...final">
-      <created>1674174511224</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1674174511224</updated>
-    </task>
-    <task id="LOCAL-00009" summary="final commit">
-      <created>1674176964956</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1674176964957</updated>
-    </task>
-    <task id="LOCAL-00010" summary="final commit....fixed app.js file">
-      <created>1674245901955</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1674245901955</updated>
-    </task>
-    <task id="LOCAL-00011" summary="final commit....fixed app.js file...again">
-      <created>1674247126431</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1674247126431</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed .nojekyll" />
-    <MESSAGE value="new nojekyll" />
-    <MESSAGE value="fixed nojekyll" />
-    <MESSAGE value="Update of ICE-1" />
-    <MESSAGE value="Update of ICE-1, final push" />
-    <MESSAGE value="Update of ICE-1, final push...final" />
-    <MESSAGE value="final commit" />
-    <MESSAGE value="final commit....fixed app.js file" />
-    <MESSAGE value="final commit....fixed app.js file...again" />
-    <option name="LAST_COMMIT_MESSAGE" value="final commit....fixed app.js file...again" />
   </component>
 </project>
